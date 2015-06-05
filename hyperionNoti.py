@@ -78,7 +78,7 @@ def sendEmail(emailBody):
     smtpserver.ehlo
     
     usr = 'notificationserv@gmail.com'
-    password = 'notificationservice'
+    password = ''
     
     smtpserver.login(usr,password)
     
