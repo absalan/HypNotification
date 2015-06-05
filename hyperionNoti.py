@@ -12,7 +12,7 @@ urlWatch = 'http://10.50.133.219/Buildplan/ActivityLogView.aspx'
 copyRight = '(c) 2014 Hyperion Notification 2.0'
 emailFooter = "\n\nDashboard: " + urlWatch + "\n"
 
-emailList = ['amali@ea.com', 'steng@ea.com', 'mgallardo@ea.com', 'bbabakan@ea.com', 'akao@ea.com', 'rzhong@ea.com', 'cpeters@ea.com', 'vle@ea.com', 'ccarbonelli@ea.com', 'lentereso@ea.com', 'rajohn@ea.com', 'annale@ea.com', 'jtsao@ea.com', 'mwerbinski@contractor.ea.com']
+emailList = []
 
 pageDataOld = ""
 spanCheck = ['<span>FPA', '<span>HPP', '<span>VAL', '<span>GAAP']
