@@ -6,7 +6,6 @@ import time
 import MySQLdb
 
 
-urlWatch_ = 'http://eahq-portalapps.rws.ad.ea.com/gadgetserver2/apofinance/test.html'
 urlWatch = 'http://10.50.133.219/Buildplan/ActivityLogView.aspx'
 
 copyRight = '(c) 2014 Hyperion Notification 2.0'
